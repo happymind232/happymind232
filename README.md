@@ -1,10 +1,10 @@
+# ✨
 <p align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=happymind232&utm_content=farm">
-    <img 
-      src="https://render.gitanimals.org/farms/happymind232" 
-      width="600" 
+    <img
+      src="https://render.gitanimals.org/farms/happymind232"
+      width="600"
       height="300"
-      alt="GitAnimals Farm"
     />
   </a>
 </p>
